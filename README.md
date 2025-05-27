@@ -44,6 +44,3 @@ this kind of information is, most of the time, only needed by pack creators and 
 [wiki]:https://agricraft.github.io/images/wiki.svg "AgriCraft GitHub Wiki"
 
 [1.7.10]:https://agricraft.github.io/versions/1.7.10/status.svg
-[1.8.9]:https://agricraft.github.io/versions/1.8.9/status.svg
-[1.9]:https://agricraft.github.io/versions/1.9/status.svg
-[1.10]:https://agricraft.github.io/versions/1.10/status.svg
